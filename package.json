@@ -1,0 +1,26 @@
+{
+  "name": "img_video_lazy_loader",
+  "version": "0.1.0",
+  "description": "This project lazy loads the videos and images present in html to speed up the loading of web pages. It also parses an html containing search for images or YouTube videos. If you find them, modify those tags and replace them with quick-to-load elements.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yenier Jimenez <yjmorales86@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "gulp-babel": "^8.0.0",
+    "gulp-clean-css": "^4.2.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-copy": "^4.0.1",
+    "gulp-fontmin": "^0.7.4",
+    "gulp-rename": "^2.0.0",
+    "gulp-terser": "^1.2.0",
+    "gulp-uglify": "^3.0.2",
+    "jquery": "^3.4.1",
+    "jquery-lazy": "^1.7.11",
+    "lozad": "^1.16.0",
+    "popper.js": "^1.16.1"
+  }
+}

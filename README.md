@@ -47,8 +47,7 @@ There are two scenarios:
     // (...)
     
     $html = "Html code here";
-    $lazyLoader = new ImgVideoLazyLoader();
-    $lazyLoader->lazyLoadIframe($html);
+    ImgVideoLazyLoader::lazyLoadIframe($html);
     
     // Now $html is ready to lazy-loading
     

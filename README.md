@@ -1,8 +1,13 @@
+
 # Image and Youtube Video lazy loader
 
 This project lazy loads the videos and images present in html to speed up the loading of web pages. It also parses an
 html containing search for images or YouTube videos. If you find them, modify those tags and replace them with
 quick-to-load elements.
+
+## Installation 
+
+> composer require 
 
 ## How to lazy load a YouTube video.
 

@@ -7,6 +7,7 @@
   },
   "author": "Yenier Jimenez <yjmorales86@gmail.com>",
   "license": "MIT",
+  "minimum-stability": "stable",
   "devDependencies": {},
   "dependencies": {
     "gulp": "^4.0.2",

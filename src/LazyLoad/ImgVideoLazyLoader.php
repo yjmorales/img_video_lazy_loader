@@ -3,7 +3,7 @@
  * @author Yenier Jimenez <yjmorales86@gmail.com>
  */
 
-namespace App\Core\LazyLoad;
+namespace ImgVideoLazyLoader\LazyLoad;
 
 use DOMDocument;
 use DOMException;

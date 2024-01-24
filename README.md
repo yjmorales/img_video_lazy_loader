@@ -7,7 +7,7 @@ quick-to-load elements.
 
 ## Installation 
 
-> composer require 
+> composer require yjmorales/img_video_lazy_loader
 
 ## How to lazy load a YouTube video.
 
